@@ -1,8 +1,7 @@
-Постановка data science задачи:
-* Определение продуктовой задачи - удаление негативных комментариев
-* Постановка задачи машинного обучения - бинарный классификатор и precision / recall метрики
-* Поиска датасета (берем с Kaggle)
-* EDA (с помощью pandas)
-* Предобработка текста (с помощью nltk и scikit-learn)
-* Тренировка моделей (с помощью scikit-learn)
-* Что делать дальше (про деплой в production)
+Statement of data science tasks: 
+* Product Task Definition  
+* Remove Negative Comments Machine Learning Problem Statement  
+* Binary Classifier and Precision/Recall Metrics Dataset search (taking it from Kaggle) EDA (via pandas) 
+Text preprocessing (using nltk and scikit-learn) 
+Model training (with scikit-learn) 
+What to do next (about deployment in production)
